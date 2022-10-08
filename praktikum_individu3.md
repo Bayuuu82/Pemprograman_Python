@@ -3,6 +3,7 @@
 ## 1. Tuliskan Sejarah kenapa kita pertama kali belajar programing language harus menggunakan “hello world”
 
 Orang yang pertama kali menulis program Hello World adalah <b>Brian Kernighan</b> Ketika itu, beliau menulis dokumentasi untuk bahasa pemrograman BCPL (Basic Combined Programming Language) dan memberikan contoh program Hello World.
+![brian kenighan](./assets/hw3.PNG)
 
 Berikut ini cuplikan kode program Hello World pertama dalam bahasa pemrograman BCPL.
 
@@ -19,11 +20,17 @@ Brian Kernighan sebenarnya tidak ingat betul, mengapa beliau menggunakan kata He
 Ingatan saya sangat suram sekarang. Apa yang saya ingat adalah sebuah kartun yang menampilkan seekor telur dan anak ayam, dan anak ayam itu mengatakan “Hello, world!”
 selengkapnya di [Sejarah dan Asal Usul 'Hello World' yang Jarang diketahui Orang. By Petanicode.com](https://www.petanikode.com/hello-world/)
 
-2. Jelaskan arti dari => `print()` pada PL Python.
+## 2. Jelaskan arti dari => `print()` pada PL Python.
+
 `print()` Merupakan fungsi yang digunakan untuk mencetak ouput program di layar ataupun console.
 
-3. Jelaskan arti dari => print(“Hello world”) pada PL Python.
-`print()` Merupakan fungsi yang digunakan untuk mencetak ouput program di layar.
-4. Praktikkan cara eksekusi Eksekusi PL python pada
-   a. Pada terminal
-   b. Pada vs-code
+## 3. Jelaskan arti dari => print(“Hello world”) pada PL Python.
+
+`print(“Hello world”)` Merupakan fungsi yang digunakan untuk mencetak ouput berupa string dengan isi **Hello world** pada console.
+
+## 4. Praktikkan cara eksekusi Eksekusi PL python pada
+
+a. Pada terminal
+![printpy](./assets/hw4.PNG)
+b. Pada vs-code
+![printpy](./assets/hw5.PNG)

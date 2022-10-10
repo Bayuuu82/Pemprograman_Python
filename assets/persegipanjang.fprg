@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Bayu Fajrin"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-09 10:09:51 PM"/>
+        <attribute name="created" value="QmF5dSBGYWpyaW47V0lOLUI1UDNDQUJFNEZHOzIwMjItMTAtMDk7MTA6MDQ6MDMgUE07MzI5Ng=="/>
+        <attribute name="edited" value="QmF5dSBGYWpyaW47V0lOLUI1UDNDQUJFNEZHOzIwMjItMTAtMDk7MTA6MDk6NTEgUE07MTszNDEy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="panjang, lebar, luas, keliling" type="Integer" array="False" size=""/>
+            <output expression="&quot;masukan panjang&quot;" newline="True"/>
+            <input variable="panjang"/>
+            <output expression="&quot;masukan lebar&quot;" newline="True"/>
+            <input variable="lebar"/>
+            <assign variable="luas" expression="panjang*lebar"/>
+            <output expression="&quot;luas persegi panjang adalah:&quot;&amp;luas" newline="True"/>
+            <output expression="&quot;keliling persegi panjang adalah:&quot;&amp;keliling" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

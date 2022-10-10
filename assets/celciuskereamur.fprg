@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Bayu Fajrin"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-09 10:49:11 PM"/>
+        <attribute name="created" value="QmF5dSBGYWpyaW47V0lOLUI1UDNDQUJFNEZHOzIwMjItMTAtMDk7MTA6MzE6MTEgUE07MzI5NQ=="/>
+        <attribute name="edited" value="QmF5dSBGYWpyaW47V0lOLUI1UDNDQUJFNEZHOzIwMjItMTAtMDk7MTA6NDk6MTEgUE07NDszNDE1"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="c" type="Real" array="False" size=""/>
+            <declare name="r" type="Real" array="False" size=""/>
+            <input variable="c"/>
+            <assign variable="r" expression="(4/5)*c"/>
+            <output expression="&quot;maka suhu dalam reamur:&quot;&amp;r" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

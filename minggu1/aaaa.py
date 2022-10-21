@@ -1,0 +1,8 @@
+print('UNIVERSITAS TEKNOLOGI INDONESIA')
+print('Jl. Dipati ukue1212, Bandung')
+print('-' * 50)
+print('nama : aakl;sjdnfkjg')
+print('nim : asdfasdf')
+print('jurusan: kdfasd')
+print('fakultas : akjshfjsd')
+print('-' * 50)
